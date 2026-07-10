@@ -1,0 +1,8 @@
+{
+  "name": "Raja Furniture",
+  "description": "Premium luxury furniture and modular kitchens manufacturer in Maharashtra.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
