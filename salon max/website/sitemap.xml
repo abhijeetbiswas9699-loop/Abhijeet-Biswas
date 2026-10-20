@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://thesalonvibe.in/</loc>
+    <lastmod>2026-10-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://thesalonvibe.in/assets/og-image.jpg</image:loc></image:image>
+    <image:image><image:loc>https://thesalonvibe.in/assets/img/svc-cut.jpg</image:loc></image:image>
+    <image:image><image:loc>https://thesalonvibe.in/assets/img/svc-colour.jpg</image:loc></image:image>
+    <image:image><image:loc>https://thesalonvibe.in/assets/img/svc-facial.jpg</image:loc></image:image>
+    <image:image><image:loc>https://thesalonvibe.in/assets/img/svc-makeup.jpg</image:loc></image:image>
+    <image:image><image:loc>https://thesalonvibe.in/assets/img/svc-nails.jpg</image:loc></image:image>
+    <image:image><image:loc>https://thesalonvibe.in/assets/img/svc-korean.jpg</image:loc></image:image>
+    <image:image><image:loc>https://thesalonvibe.in/assets/img/svc-spa.jpg</image:loc></image:image>
+    <image:image><image:loc>https://thesalonvibe.in/assets/img/gallery-2.jpg</image:loc></image:image>
+    <image:image><image:loc>https://thesalonvibe.in/assets/img/gallery-3.jpg</image:loc></image:image>
+    <image:image><image:loc>https://thesalonvibe.in/assets/img/gallery-4.jpg</image:loc></image:image>
+    <image:image><image:loc>https://thesalonvibe.in/assets/img/founder-1.jpg</image:loc></image:image>
+    <image:image><image:loc>https://thesalonvibe.in/assets/img/founder-2.jpg</image:loc></image:image>
+  </url>
+</urlset>
